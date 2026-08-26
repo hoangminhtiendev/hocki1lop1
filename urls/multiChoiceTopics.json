@@ -1,0 +1,4685 @@
+[
+  {
+    "id": 1,
+    "text": "My family",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/peacock.png",
+    "scenes": [
+      {
+        "id": 1,
+        "question": "Choose the missing letter: b_ll",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/bell.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/bell.mp3",
+        "choices": [
+          "A. a",
+          "B. e",
+          "C. i",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: b_ll\n✅ A → ball: quả bóng"
+      },
+      {
+        "id": 2,
+        "question": "Choose the unnecessary letter: mbook",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. b",
+          "B. o",
+          "C. m",
+          "D. k"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Chọn chữ thừa: mbook\n✅ C → book: nhà (bỏ m)"
+      },
+      {
+        "id": 3,
+        "question": "Find the mistake: <u>Billy</u> <u>am</u> <u>in</u> the <u>classroom</u>.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. Billy",
+          "B. am",
+          "C. in",
+          "D. classroom"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Tìm lỗi sai: Billy am in the classroom.\n✅ B → sửa am thành is (Billy ngôi thứ 3 số ít)"
+      },
+      {
+        "id": 4,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/playground.mp3",
+        "choices": [
+          "A. classroom",
+          "B. park",
+          "C. playground",
+          "D. book"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Nghe và chọn\n✅ C → playground: sân chơi"
+      },
+      {
+        "id": 5,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/bike.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. book",
+          "B. bike",
+          "C. ball",
+          "D. kite"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Nhìn tranh chọn đáp án\n✅ B → bike: xe đạp"
+      },
+      {
+        "id": 6,
+        "question": "I'm ____ the park.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/i'minthepark.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/i'minthepark.mp3",
+        "choices": [
+          "A. in",
+          "B. is",
+          "C. am",
+          "D. at"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "I'm ___ the park.\n✅ A → in the park: ở công viên"
+      },
+      {
+        "id": 7,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/hii'mbill.mp3",
+        "choices": [
+          "A. Hi, I'm Bill.",
+          "B. Bye, Bill.",
+          "C. Hello, Ba.",
+          "D. Goodbye, Nam."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe và chọn\n✅ A → Hi, I'm Bill: Chào, tôi là Bill"
+      },
+      {
+        "id": 8,
+        "question": "Choose the missing letter: bi_e",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/bike.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. k",
+          "B. c",
+          "C. t",
+          "D. g"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: bi_e\n✅ A → bike: xe đạp"
+      },
+      {
+        "id": 9,
+        "question": "Choose the unnecessary letter: ballz",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. b",
+          "B. a",
+          "C. l",
+          "D. z"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn chữ thừa: ballz\n✅ D → ball: quả bóng (bỏ z)"
+      },
+      {
+        "id": 10,
+        "question": "She is ____ home.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. in",
+          "B. is",
+          "C. at",
+          "D. on"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Tìm lỗi sai: She is in home.\n✅ C → sửa in home thành at home: ở nhà"
+      },
+      {
+        "id": 11,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. Bill",
+          "B. Ba",
+          "C. Ann",
+          "D. park"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là tên người, park là địa điểm"
+      },
+      {
+        "id": 12,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/kite.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. kite",
+          "B. robot",
+          "C. ball",
+          "D. bike"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → kite: con diều"
+      },
+      {
+        "id": 13,
+        "question": "Hi, ____, Tom.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/helloi'mtom.mp3",
+        "choices": [
+          "A. Hi",
+          "B. Bye",
+          "C. I'm",
+          "D. is"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Hi, ___, Tom.\n✅ C → Hi,I'm Tom: Xin chào, mình là Tom."
+      },
+      {
+        "id": 14,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/schoolplayground.mp3",
+        "choices": [
+          "A. school",
+          "B. classroom",
+          "C. school playground",
+          "D. park"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Nghe và chọn\n✅ C → school playground: sân trường"
+      },
+      {
+        "id": 15,
+        "question": "Choose the missing letter: boo_",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. e",
+          "B. k",
+          "C. p",
+          "D. d"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Chọn chữ còn thiếu: boo_\n✅ B → book: quyển sách"
+      },
+      {
+        "id": 16,
+        "question": "Choose the unnecessary letter: kiite",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. k",
+          "B. i",
+          "C. t",
+          "D. e"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Chọn chữ thừa: kiite\n✅ B → kite: con diều (bỏ một i)"
+      },
+      {
+        "id": 17,
+        "question": "Choose the missing letter: b_e",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. o",
+          "B. k",
+          "C. i",
+          "D. y"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn chữ còn thiếu: boo_\n✅ B → bye: tạm biệt"
+      },
+      {
+        "id": 18,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. Hi",
+          "B. Hello",
+          "C. Bye",
+          "D. book"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là lời chào, book là đồ vật"
+      },
+      {
+        "id": 19,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/robot.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. bike",
+          "B. robot",
+          "C. kite",
+          "D. book"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Nhìn tranh chọn đáp án\n✅ B → robot: người máy"
+      },
+      {
+        "id": 20,
+        "question": "Billy ____ at home.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/billyisathome.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/billyisathome.mp3",
+        "choices": [
+          "A. am",
+          "B. is",
+          "C. are",
+          "D. be"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Billy ___ at home.\n✅ B → Billy is at home (ngôi thứ 3 số ít)"
+      },
+      {
+        "id": 21,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/classroom.mp3",
+        "choices": [
+          "A. flower garden",
+          "B. playground",
+          "C. park",
+          "D. classroom"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Nghe và chọn\n✅ D → classroom: phòng học"
+      },
+      {
+        "id": 22,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. ball",
+          "B. bike",
+          "C. kite",
+          "D. school"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là đồ vật, school là địa điểm"
+      },
+      {
+        "id": 23,
+        "question": "Choose the missing letter: p_rk",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. a",
+          "B. e",
+          "C. i",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: p_rk\n✅ A → park: công viên"
+      },
+      {
+        "id": 24,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/playground.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/playground.mp3",
+        "choices": [
+          "A. classroom",
+          "B. park",
+          "C. home",
+          "D. playground"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Nhìn tranh chọn đáp án\n✅ D → playground: sân chơi"
+      },
+      {
+        "id": 25,
+        "question": "Find the mistake: <u>Hi</u>, <u>I</u> <u>are</u> <u>Tom</u>.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. Hi",
+          "B. I",
+          "C. are",
+          "D. Tom"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Tìm lỗi sai: Hi, I are Tom.\n✅ C → sửa I are thành I'm (I am): tôi là"
+      },
+      {
+        "id": 26,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ball.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. ball",
+          "B. bike",
+          "C. kite",
+          "D. book"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → ball: quả bóng"
+      },
+      {
+        "id": 27,
+        "question": "Choose the unnecessary letter: parkk",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. p",
+          "B. a",
+          "C. r",
+          "D. k"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn chữ thừa: parkk\n✅ D → park: công viên (bỏ k)"
+      },
+      {
+        "id": 28,
+        "question": "I ____ in the classroom.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. am",
+          "B. is",
+          "C. are",
+          "D. be"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "I ___ in the classroom.\n✅ A → chủ ngữ I dùng am"
+      },
+      {
+        "id": 29,
+        "question": "____, I'm Lan.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. Bye",
+          "B. Goodbye",
+          "C. Hi",
+          "D. book"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "___, I'm Lan.\n✅ C → Hi/Hello: chào và giới thiệu tên"
+      },
+      {
+        "id": 30,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ball.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ball.mp3",
+        "choices": [
+          "A. ball",
+          "B. bike",
+          "C. kite",
+          "D. book"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe và chọn\n✅ A → ball: quả bóng"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Jobs",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/swing.png",
+    "scenes": [
+      {
+        "id": 31,
+        "question": "Choose the missing letter: c_t",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. a",
+          "B. e",
+          "C. i",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: c_t\n✅ A → cat: con mèo"
+      },
+      {
+        "id": 32,
+        "question": "Choose the unnecessary letter: cupx",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. c",
+          "B. u",
+          "C. p",
+          "D. x"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn chữ thừa: cupx\n✅ D → cup: cái cốc (bỏ x)"
+      },
+      {
+        "id": 33,
+        "question": "Find the mistake: <u>I</u> <u>have</u> <u>a cat</u> and a cars.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. I",
+          "B. have",
+          "C. a cat",
+          "D. cars"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Tìm lỗi sai: I have a cat and a cars.\n✅ D → sau a dùng số ít: a car"
+      },
+      {
+        "id": 34,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. cat",
+          "B. dog",
+          "C. bird",
+          "D. classroom"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là con vật, classroom là địa điểm"
+      },
+      {
+        "id": 35,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/cake.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. cake",
+          "B. cookie",
+          "C. candy",
+          "D. cup"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → cake: bánh ngọt"
+      },
+      {
+        "id": 36,
+        "question": "I have a cat ____ a car.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ihaveacatandacar.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveacatandacar.mp3",
+        "choices": [
+          "A. and",
+          "B. but",
+          "C. or",
+          "D. the"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "I have a cat ___ a car.\n✅ A → and: và (a cat and a car)"
+      },
+      {
+        "id": 37,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/cat.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/cat.mp3",
+        "choices": [
+          "A. cat",
+          "B. car",
+          "C. cap",
+          "D. cake"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe và chọn\n✅ A → cat: con mèo"
+      },
+      {
+        "id": 38,
+        "question": "Choose the missing letter: c_ke",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. a",
+          "B. e",
+          "C. i",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: c_ke\n✅ A → cake: bánh ngọt"
+      },
+      {
+        "id": 39,
+        "question": "Choose the unnecessary letter: doog",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. d",
+          "B. o",
+          "C. o",
+          "D. g"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Chọn chữ thừa: doog\n✅ C → dog: con chó (bỏ một o)"
+      },
+      {
+        "id": 40,
+        "question": "Find the mistake: <u>I</u> <u>are</u> <u>in</u> <u>the</u> <u>kitchen</u>.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. I",
+          "B. are",
+          "C. in",
+          "D. kitchen"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Tìm lỗi sai: I are in the kitchen.\n✅ B → chủ ngữ I dùng am: I am in the kitchen"
+      },
+      {
+        "id": 41,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. car",
+          "B. bus",
+          "C. truck",
+          "D. book"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là phương tiện, book là đồ vật"
+      },
+      {
+        "id": 42,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/cat.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. cat",
+          "B. dog",
+          "C. bird",
+          "D. car"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → cat: con mèo"
+      },
+      {
+        "id": 43,
+        "question": "I'm ____ the kitchen.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/i'minthekitchen.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/i'minthekitchen.mp3",
+        "choices": [
+          "A. in",
+          "B. on",
+          "C. at",
+          "D. to"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "I'm ___ the kitchen.\n✅ A → in the kitchen: ở trong nhà bếp"
+      },
+      {
+        "id": 44,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/truck.mp3",
+        "choices": [
+          "A. truck",
+          "B. bus",
+          "C. car",
+          "D. bike"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe và chọn\n✅ A → truck: xe tải"
+      },
+      {
+        "id": 45,
+        "question": "Choose the unnecessary letter: zcat",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. c",
+          "B. a",
+          "C. t",
+          "D. z"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn chữ thừa: catz\n✅ D → cat: con mèo (bỏ z)"
+      },
+      {
+        "id": 46,
+        "question": "Find the mistake: <u>This</u> <u>are</u> <u>my</u> <u>kite</u>.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. This",
+          "B. are",
+          "C. my",
+          "D. kite"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Tìm lỗi sai: This are my kite.\n✅ B → This số ít dùng is"
+      },
+      {
+        "id": 47,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/dog.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. dog",
+          "B. cat",
+          "C. bird",
+          "D. bus"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → dog: con chó"
+      },
+      {
+        "id": 48,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. kitchen",
+          "B. living room",
+          "C. dining room",
+          "D. bike"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là phòng trong nhà, bike là đồ vật"
+      },
+      {
+        "id": 49,
+        "question": "____ is a cake in the box.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thereisacakeinthebox.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisacakeinthebox.mp3",
+        "choices": [
+          "A. It",
+          "B. This",
+          "C. There",
+          "D. He"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "___ is a cake in the box.\n✅ C → There is: có (There is a cake)"
+      },
+      {
+        "id": 50,
+        "question": "Choose the missing letter: b_s",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. u",
+          "B. a",
+          "C. e",
+          "D. i"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: b_s\n✅ A → bus: xe buýt"
+      },
+      {
+        "id": 51,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveadogandacookie.mp3",
+        "choices": [
+          "A. I have a dog and a cookie.",
+          "B. I have a cat and a candy.",
+          "C. I have a bird and a bike.",
+          "D. I have a car and a cake."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe và chọn\n✅ A → I have a dog and a cookie: Tôi có một con chó và một cái bánh quy"
+      },
+      {
+        "id": 52,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/cup.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. cup",
+          "B. cake",
+          "C. cap",
+          "D. candy"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → cup: cái cốc"
+      },
+      {
+        "id": 53,
+        "question": "Find the mistake: <u>There</u> <u>is</u> <u>a</u> <u>cakes</u> in the box.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thereisacakeinthebox.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. There",
+          "B. is",
+          "C. a",
+          "D. cakes"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Tìm lỗi sai: There is a cakes in the box.\n✅ D → sau a dùng số ít: a cake"
+      },
+      {
+        "id": 54,
+        "question": "This ____ my kite.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. am",
+          "B. is",
+          "C. are",
+          "D. be"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "This ___ my kite.\n✅ B → This số ít dùng is"
+      },
+      {
+        "id": 55,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. cake",
+          "B. cup",
+          "C. candy",
+          "D. brother"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là đồ ăn/đồ vật, brother là người"
+      },
+      {
+        "id": 56,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/car.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. car",
+          "B. bus",
+          "C. truck",
+          "D. bike"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → car: ô tô"
+      },
+      {
+        "id": 57,
+        "question": "Choose the unnecessary letter: birzd",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/bird.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. b",
+          "B. i",
+          "C. d",
+          "D. z"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn chữ thừa: birdz\n✅ D → bird: con chim (bỏ z)"
+      },
+      {
+        "id": 58,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/livingroom.mp3",
+        "choices": [
+          "A. living room",
+          "B. dining room",
+          "C. kitchen",
+          "D. classroom"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe và chọn\n✅ A → living room: phòng khách"
+      },
+      {
+        "id": 59,
+        "question": "I have a bird and ____ bike.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ihaveabirdandabike.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveabirdandabike.mp3",
+        "choices": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. some"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "I have a bird and ___ bike.\n✅ A → bike bắt đầu bằng phụ âm → dùng a"
+      },
+      {
+        "id": 60,
+        "question": "Choose the missing letter: d_g",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/dog.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. o",
+          "B. a",
+          "C. e",
+          "D. i"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: d_g\n✅ A → dog: con chó"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "My house",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/count.png",
+    "scenes": [
+      {
+        "id": 61,
+        "question": "Choose the missing letter: h_t",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/hat.mp3",
+        "choices": [
+          "A. a",
+          "B. e",
+          "C. i",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: h_t\n✅ A → hat: cái mũ"
+      },
+      {
+        "id": 62,
+        "question": "Choose the unnecessary letter: cxan",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. c",
+          "B. x",
+          "C. a",
+          "D. n"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Chọn chữ thừa: canx\n✅ B → can: lon nước (bỏ x)"
+      },
+      {
+        "id": 63,
+        "question": "Find the mistake: <u>There</u> <u>is</u> <u>a</u> <u>apple</u> in the bag.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thereisanappleinthebag.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. There",
+          "B. is",
+          "C. a",
+          "D. apple"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Tìm lỗi sai: There is a apple in the bag.\n✅ C → apple bắt đầu bằng nguyên âm → dùng an"
+      },
+      {
+        "id": 64,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. street market",
+          "B. supermarket",
+          "C. playground",
+          "D. cup"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là địa điểm, cup là đồ vật"
+      },
+      {
+        "id": 65,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/bag.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. bag",
+          "B. hat",
+          "C. can",
+          "D. cap"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → bag: cái túi"
+      },
+      {
+        "id": 66,
+        "question": "There is a can ____ the bag.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thereisacaninthebag.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisacaninthebag.mp3",
+        "choices": [
+          "A. in",
+          "B. on",
+          "C. at",
+          "D. to"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "There is a can ___ the bag.\n✅ A → in the bag: ở trong túi"
+      },
+      {
+        "id": 67,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/supermarket.mp3",
+        "choices": [
+          "A. supermarket",
+          "B. street market",
+          "C. playground",
+          "D. school"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe và chọn\n✅ A → supermarket: siêu thị"
+      },
+      {
+        "id": 68,
+        "question": "Choose the missing letter: appl_",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/apple.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. a",
+          "B. e",
+          "C. i",
+          "D. o"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Chọn chữ còn thiếu: appl_\n✅ B → apple: quả táo"
+      },
+      {
+        "id": 69,
+        "question": "Choose the unnecessary letter: hkat",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. h",
+          "B. k",
+          "C. a",
+          "D. t"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Chọn chữ thừa: hatz\n✅ B → hat: cái mũ (bỏ k)"
+      },
+      {
+        "id": 70,
+        "question": "Find the mistake: <u>This</u> <u>is</u> <u>my</u> <u>robots</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisismyrobot.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. This",
+          "B. is",
+          "C. my",
+          "D. robots"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Tìm lỗi sai: This is my robots.\n✅ D → This is my dùng số ít: robot"
+      },
+      {
+        "id": 71,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. apple",
+          "B. cookie",
+          "C. candy",
+          "D. bat"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là đồ ăn, bat là con vật"
+      },
+      {
+        "id": 72,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/can.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. can",
+          "B. cup",
+          "C. bag",
+          "D. hat"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → can: lon nước"
+      },
+      {
+        "id": 73,
+        "question": "There is a hat ____ the table.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thereisahatonthetable.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. in",
+          "B. on",
+          "C. at",
+          "D. to"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "There is a hat ___ the table.\n✅ B → on the table: ở trên bàn"
+      },
+      {
+        "id": 74,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisanappleinthebasket.mp3",
+        "choices": [
+          "A. There is an apple in the basket.",
+          "B. There is a can in the bag.",
+          "C. There is a hat on the table.",
+          "D. There is a cat on the chair."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe và chọn\n✅ A → There is an apple in the basket: Có một quả táo trong giỏ"
+      },
+      {
+        "id": 75,
+        "question": "Choose the missing letter: b_g",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/bag.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. a",
+          "B. e",
+          "C. i",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: b_g\n✅ A → bag: cái túi"
+      },
+      {
+        "id": 76,
+        "question": "Choose the unnecessary letter: applex",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. a",
+          "B. p",
+          "C. e",
+          "D. x"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn chữ thừa: applex\n✅ D → apple: quả táo (bỏ x)"
+      },
+      {
+        "id": 77,
+        "question": "Find the mistake: <u>There</u> <u>is</u> <u>an</u> <u>hat</u> on the table.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thereisahatonthetable.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. There",
+          "B. is",
+          "C. an",
+          "D. hat"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Tìm lỗi sai: There is an hat on the table.\n✅ C → hat bắt đầu bằng phụ âm → dùng a"
+      },
+      {
+        "id": 78,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. mom",
+          "B. dad",
+          "C. brother",
+          "D. can"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là người trong nhà, can là đồ vật"
+      },
+      {
+        "id": 79,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ant.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. ant",
+          "B. bat",
+          "C. bird",
+          "D. dog"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → ant: con kiến"
+      },
+      {
+        "id": 80,
+        "question": "There is ____ apple in the bag.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. some"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "There is ___ apple in the bag.\n✅ B → apple bắt đầu bằng nguyên âm → dùng an"
+      },
+      {
+        "id": 81,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/hat.mp3",
+        "choices": [
+          "A. hat",
+          "B. cap",
+          "C. can",
+          "D. bag"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe và chọn\n✅ A → hat: cái mũ"
+      },
+      {
+        "id": 82,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/apple.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. apple",
+          "B. cake",
+          "C. cookie",
+          "D. candy"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → apple: quả táo"
+      },
+      {
+        "id": 83,
+        "question": "Find the mistake: <u>My mom and I</u> <u>is</u> <u>at</u> the <u>supermarket</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/mymomandiareatthesupermarket.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/mymomandiareatthesupermarket.mp3",
+        "choices": [
+          "A. My mom and I",
+          "B. is",
+          "C. at",
+          "D. supermarket"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Tìm lỗi sai: My mom and I is at the supermarket.\n✅ B → My mom and I số nhiều dùng are"
+      },
+      {
+        "id": 84,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/cat.mp3",
+        "choices": [
+          "A. bat",
+          "B. ant",
+          "C. cat",
+          "D. bird"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Nghe và chọn\n✅ C → cat: con mèo"
+      },
+      {
+        "id": 85,
+        "question": "Choose the missing letter: ca_",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/can.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. n",
+          "B. m",
+          "C. t",
+          "D. d"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: ca_\n✅ A → can: lon nước"
+      },
+      {
+        "id": 86,
+        "question": "Choose the unnecessary letter: baeg",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. b",
+          "B. a",
+          "C. e",
+          "D. g"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Chọn chữ thừa: bagz\n✅ C → bag: cái túi (bỏ z)"
+      },
+      {
+        "id": 87,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/hat.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. hat",
+          "B. cap",
+          "C. bag",
+          "D. can"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → hat: cái mũ"
+      },
+      {
+        "id": 88,
+        "question": "My mom and I ____ at the supermarket.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/mymomandiareatthesupermarket.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. am",
+          "B. is",
+          "C. are",
+          "D. be"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "My mom and I ___ at the supermarket.\n✅ C → My mom and I số nhiều dùng are"
+      },
+      {
+        "id": 89,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. hat",
+          "B. bag",
+          "C. cap",
+          "D. supermarket"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là đồ vật, supermarket là địa điểm"
+      },
+      {
+        "id": 90,
+        "question": "This is ____ bat.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisisabat.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisisabat.mp3",
+        "choices": [
+          "A. my",
+          "B. a",
+          "C. an",
+          "D. the"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "This is ___ bat.\n✅ A → This is my + danh từ: giới thiệu vật của mình"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "My bedroom",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/horse.png",
+    "scenes": [
+      {
+        "id": 91,
+        "question": "Choose the missing letter: d_ck",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/duck.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. u",
+          "B. a",
+          "C. e",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: d_ck\n✅ A → duck: con vịt"
+      },
+      {
+        "id": 92,
+        "question": "Choose the unnecessary letter: doorx",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. d",
+          "B. o",
+          "C. r",
+          "D. x"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn chữ thừa: doorx\n✅ D → door: cái cửa (bỏ x)"
+      },
+      {
+        "id": 93,
+        "question": "Find the mistake: <u>This</u> <u>is</u> <u>a</u> <u>dogs</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisisadog.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. This",
+          "B. is",
+          "C. a",
+          "D. dogs"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Tìm lỗi sai: This is a dogs.\n✅ D → sau a dùng số ít: a dog"
+      },
+      {
+        "id": 94,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. door",
+          "B. window",
+          "C. wall",
+          "D. doll"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là bộ phận căn phòng, doll là đồ chơi"
+      },
+      {
+        "id": 95,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/desk.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. desk",
+          "B. table",
+          "C. chair",
+          "D. door"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → desk: cái bàn học"
+      },
+      {
+        "id": 96,
+        "question": "This is ____ apple.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisisanapple.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. my"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "This is ___ apple.\n✅ B → apple bắt đầu bằng nguyên âm → dùng an"
+      },
+      {
+        "id": 97,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/duck.mp3",
+        "choices": [
+          "A. duck",
+          "B. dog",
+          "C. bird",
+          "D. fish"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe và chọn\n✅ A → duck: con vịt"
+      },
+      {
+        "id": 98,
+        "question": "Listen and choose the correct letter.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/a.mp3",
+        "choices": [
+          "A. a",
+          "B. d",
+          "C. e",
+          "D. b"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe âm chọn chữ (phonics)\n✅ A → âm /w/ (chữ w)"
+      },
+      {
+        "id": 99,
+        "question": "Choose the missing letter: de_k",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. s",
+          "B. t",
+          "C. d",
+          "D. k"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: de_k\n✅ A → desk: cái bàn học"
+      },
+      {
+        "id": 100,
+        "question": "Choose the unnecessary letter: dutck",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. d",
+          "B. u",
+          "C. t",
+          "D. c"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Chọn chữ thừa: duckz\n✅ C → duck: con vịt (bỏ t)"
+      },
+      {
+        "id": 101,
+        "question": "Find the mistake: <u>This</u> <u>are</u> <u>my</u> <u>dog</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisismydog.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. This",
+          "B. are",
+          "C. my",
+          "D. dog"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Tìm lỗi sai: This are my dog.\n✅ B → This số ít dùng is"
+      },
+      {
+        "id": 102,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. desk",
+          "B. table",
+          "C. chair",
+          "D. duck"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là đồ nội thất, duck là con vật"
+      },
+      {
+        "id": 103,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/window.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. window",
+          "B. door",
+          "C. wall",
+          "D. box"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → window: cửa sổ"
+      },
+      {
+        "id": 104,
+        "question": "The dog is ____ the door.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thedogisnearthedoor.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. on",
+          "B. near",
+          "C. at",
+          "D. in"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "The dog is ___ the door.\n✅ B → near: gần (con chó ở gần cửa)"
+      },
+      {
+        "id": 105,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/bedroom.mp3",
+        "choices": [
+          "A. bedroom",
+          "B. kitchen",
+          "C. bathroom",
+          "D. living room"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe và chọn\n✅ A → bedroom: phòng ngủ"
+      },
+      {
+        "id": 106,
+        "question": "Listen and choose the correct letter.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/d.mp3",
+        "choices": [
+          "A. a",
+          "B. b",
+          "C. d",
+          "D. e"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Nghe âm chọn chữ (phonics)\n✅ C → âm /d/ (chữ d)"
+      },
+      {
+        "id": 107,
+        "question": "Choose the missing letter: do_r",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. o",
+          "B. a",
+          "C. e",
+          "D. i"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: do_r\n✅ A → door: cái cửa"
+      },
+      {
+        "id": 108,
+        "question": "Choose the unnecessary letter: dzesk",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. d",
+          "B. z",
+          "C. s",
+          "D. k"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Chọn chữ thừa: deskz\n✅ D → desk: cái bàn học (bỏ z)"
+      },
+      {
+        "id": 109,
+        "question": "Find the mistake: <u>The</u> <u>duck</u> <u>are</u> on the <u>desk</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theduckisonthedesk.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. The",
+          "B. duck",
+          "C. are",
+          "D. desk"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Tìm lỗi sai: The duck are on the desk.\n✅ C → duck số ít dùng is"
+      },
+      {
+        "id": 110,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. bedroom",
+          "B. kitchen",
+          "C. bathroom",
+          "D. window"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là các phòng, window là bộ phận của phòng"
+      },
+      {
+        "id": 111,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/duck.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. duck",
+          "B. dog",
+          "C. bird",
+          "D. fish"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → duck: con vịt"
+      },
+      {
+        "id": 112,
+        "question": "This is ____ desk.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisisadesk.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. my",
+          "B. a",
+          "C. an",
+          "D. the"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "This is ___ desk.\n✅ A → This is my + danh từ: giới thiệu vật của mình"
+      },
+      {
+        "id": 113,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thedogisnearthewindow.mp3",
+        "choices": [
+          "A. The dog is near the window.",
+          "B. The dog is on the desk.",
+          "C. The duck is near the door.",
+          "D. The cat is near the window."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe và chọn\n✅ A → The dog is near the window: Con chó ở gần cửa sổ"
+      },
+      {
+        "id": 114,
+        "question": "Listen and choose the correct letter.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/i.mp3",
+        "choices": [
+          "A. i",
+          "B. d",
+          "C. e",
+          "D. b"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe âm chọn chữ (phonics)\n✅ A → âm /i/ (âm ngắn của i)"
+      },
+      {
+        "id": 115,
+        "question": "Choose the missing letter: wi_dow",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. n",
+          "B. m",
+          "C. r",
+          "D. l"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: wi_dow\n✅ A → window: cửa sổ"
+      },
+      {
+        "id": 116,
+        "question": "Choose the unnecessary letter: chaeir",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. c",
+          "B. h",
+          "C. e",
+          "D. r"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Chọn chữ thừa: chaeir\n✅ C → chair: cái ghế (bỏ e)"
+      },
+      {
+        "id": 117,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. duck",
+          "B. dog",
+          "C. bird",
+          "D. desk"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là con vật, desk là đồ vật"
+      },
+      {
+        "id": 118,
+        "question": "Find the mistake: <u>The chair</u> <u>am</u> <u>near</u> the <u>window</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thechairisnearthewindow.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. The chair",
+          "B. am",
+          "C. near",
+          "D. window"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Tìm lỗi sai: The chair am near the window.\n✅ B → chair số ít dùng is"
+      },
+      {
+        "id": 119,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/doll.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. doll",
+          "B. robot",
+          "C. ball",
+          "D. box"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → doll: búp bê"
+      },
+      {
+        "id": 120,
+        "question": "The duck is ____ the desk.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theduckisonthedesk.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. on",
+          "B. in",
+          "C. at",
+          "D. to"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "The duck is ___ the desk.\n✅ A → on the desk: ở trên bàn"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "At the dinning table",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/tiger.png",
+    "scenes": [
+      {
+        "id": 121,
+        "question": "Choose the missing letter: f_sh",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. i",
+          "B. e",
+          "C. a",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: f_sh\n✅ A → fish: con cá"
+      },
+      {
+        "id": 122,
+        "question": "Choose the unnecessary letter: milnk",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. m",
+          "B. l",
+          "C. n",
+          "D. k"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Chọn chữ thừa: milnk\n✅ C → milk: sữa (bỏ n)"
+      },
+      {
+        "id": 123,
+        "question": "Find the mistake: <u>I</u> <u>like</u> <u>a</u> <u>chips</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ilikechips.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. I",
+          "B. like",
+          "C. a",
+          "D. chips"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Tìm lỗi sai: I like a chips.\n✅ C → chips số nhiều → bỏ a"
+      },
+      {
+        "id": 124,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. chips",
+          "B. candy",
+          "C. cookie",
+          "D. duck"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là đồ ăn, duck là con vật"
+      },
+      {
+        "id": 125,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/milk.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. milk",
+          "B. juice",
+          "C. chips",
+          "D. fish"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → milk: sữa"
+      },
+      {
+        "id": 126,
+        "question": "____ like chips.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ilikechips.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. I",
+          "B. He",
+          "C. She",
+          "D. It"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "___ like chips.\n✅ A → I: tôi (I + like, không thêm s)"
+      },
+      {
+        "id": 127,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/juice.mp3",
+        "choices": [
+          "A. juice",
+          "B. milk",
+          "C. chicken",
+          "D. cookie"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe và chọn\n✅ A → juice: nước ép"
+      },
+      {
+        "id": 128,
+        "question": "Listen and choose the correct letter.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/i.mp3",
+        "choices": [
+          "A. d",
+          "B. i",
+          "C. g",
+          "D. h"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Nghe âm chọn chữ (phonics)\n✅ B → âm /m/ (chữ m)"
+      },
+      {
+        "id": 129,
+        "question": "Choose the missing letter: ch_cken",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. i",
+          "B. a",
+          "C. e",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: ch_cken\n✅ A → chicken: thịt gà"
+      },
+      {
+        "id": 130,
+        "question": "Choose the unnecessary letter: fiszh",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. f",
+          "B. s",
+          "C. z",
+          "D. h"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Chọn chữ thừa: fiszh\n✅ C → fish: con cá (bỏ z)"
+      },
+      {
+        "id": 131,
+        "question": "Find the mistake: <u>I</u> <u>likes</u> <u>chicken</u> <u>very much</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ilikechickenverymuch.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. I",
+          "B. likes",
+          "C. chicken",
+          "D. very much"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Tìm lỗi sai: I likes chicken very much.\n✅ B → chủ ngữ I dùng like (không thêm s)"
+      },
+      {
+        "id": 132,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. fish",
+          "B. chips",
+          "C. milk",
+          "D. chair"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là đồ ăn/uống, chair là đồ vật"
+      },
+      {
+        "id": 133,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/chicken.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. chicken",
+          "B. duck",
+          "C. bird",
+          "D. fish"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → chicken: thịt gà"
+      },
+      {
+        "id": 134,
+        "question": "I ____ fish.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ilikechicken.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. like",
+          "B. likes",
+          "C. liking",
+          "D. liked"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "I ___ fish.\n✅ A → I + like (không thêm s): Tôi thích cá"
+      },
+      {
+        "id": 135,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikechickenandmilk.mp3",
+        "choices": [
+          "A. I like chicken and milk.",
+          "B. I like fish and chips.",
+          "C. I like juice and cookie.",
+          "D. I like candy and cake."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe và chọn\n✅ A → I like chicken and milk: Tôi thích thịt gà và sữa"
+      },
+      {
+        "id": 136,
+        "question": "Listen and choose the correct letter.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/d.mp3",
+        "choices": [
+          "A. b",
+          "B. c",
+          "C. a",
+          "D. d"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Nghe âm chọn chữ (phonics)\n✅ D → âm /d/ (chữ d)"
+      },
+      {
+        "id": 137,
+        "question": "Choose the missing letter: j_ice",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. u",
+          "B. o",
+          "C. i",
+          "D. e"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: j_ice\n✅ A → juice: nước ép"
+      },
+      {
+        "id": 138,
+        "question": "Choose the unnecessary letter: chiczken",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A.i",
+          "B. c",
+          "C. z",
+          "D. n"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Chọn chữ thừa: chiczken\n✅ C → chicken: thịt gà (bỏ z)"
+      },
+      {
+        "id": 139,
+        "question": "Find the mistake: <u>I</u> <u>like</u> <u>a</u> <u>milk</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ilikemilk.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. I",
+          "B. like",
+          "C. a",
+          "D. milk"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Tìm lỗi sai: I like a milk.\n✅ C → milk không đếm được → bỏ a"
+      },
+      {
+        "id": 140,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. juice",
+          "B. milk",
+          "C. cake",
+          "D. window"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là đồ ăn/uống, window là bộ phận của phòng"
+      },
+      {
+        "id": 141,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/chips.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. chips",
+          "B. fish",
+          "C. candy",
+          "D. cookie"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → chips: khoai tây chiên"
+      },
+      {
+        "id": 142,
+        "question": "I ____ chicken and milk.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ilikechickenandmilk.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. likes",
+          "B. like",
+          "C. liked",
+          "D. liking"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "I ___ chicken and milk.\n✅ B → I + like (không thêm s)"
+      },
+      {
+        "id": 143,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/fish.mp3",
+        "choices": [
+          "A. fish",
+          "B. chips",
+          "C. milk",
+          "D. chicken"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe và chọn\n✅ A → fish: con cá"
+      },
+      {
+        "id": 144,
+        "question": "Listen and choose the correct letter.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. b",
+          "B. e",
+          "C. d",
+          "D. c"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe âm chọn chữ (phonics)\n✅ A → âm /b/ (b)"
+      },
+      {
+        "id": 145,
+        "question": "Choose the missing letter: m_lk",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. i",
+          "B. e",
+          "C. a",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: m_lk\n✅ A → milk: sữa"
+      },
+      {
+        "id": 146,
+        "question": "Choose the unnecessary letter: juicex",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. j",
+          "B. u",
+          "C. e",
+          "D. x"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn chữ thừa: juicex\n✅ D → juice: nước ép (bỏ x)"
+      },
+      {
+        "id": 147,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. fish",
+          "B. chicken",
+          "C. cake",
+          "D. doll"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là đồ ăn, doll là đồ chơi"
+      },
+      {
+        "id": 148,
+        "question": "Find the mistake: <u>I</u> <u>likes</u> <u>juice</u> <u>so much</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ilikejuice.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. I",
+          "B. likes",
+          "C. juice",
+          "D. so much"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Tìm lỗi sai: I likes juice so much.\n✅ B → chủ ngữ I dùng like (không thêm s)"
+      },
+      {
+        "id": 149,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/fish.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. fish",
+          "B. chips",
+          "C. milk",
+          "D. chicken"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → fish: con cá"
+      },
+      {
+        "id": 150,
+        "question": "I like candy ____ juice.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ilikecandyandjuice.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. and",
+          "B. but",
+          "C. or",
+          "D. with"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "I like candy ___ juice.\n✅ A → and: và (nối hai đồ ăn/uống)"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "My pets",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/monkey.png",
+    "scenes": [
+      {
+        "id": 151,
+        "question": "Choose the missing letter: I have a r_d hat.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ihavearedhat.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. e",
+          "B. a",
+          "C. i",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: r_d\n✅ A → red: màu đỏ"
+      },
+      {
+        "id": 152,
+        "question": "Choose the unnecessary letter: hkat",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. h",
+          "B. k",
+          "C. a",
+          "D. t"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn chữ thừa: hatz\n✅ D → hat: cái mũ (bỏ z)"
+      },
+      {
+        "id": 153,
+        "question": "Find the mistake: <u>I</u> <u>has</u> <u>a</u> <u>bell</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ihaveabell.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. I",
+          "B. has",
+          "C. a",
+          "D. bell"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Tìm lỗi sai: I has a bell.\n✅ B → chủ ngữ I dùng have"
+      },
+      {
+        "id": 154,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. hat",
+          "B. kite",
+          "C. ball",
+          "D. Ben"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là đồ vật, Ben là tên người"
+      },
+      {
+        "id": 155,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/pen.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/pen.mp3",
+        "choices": [
+          "A. pen",
+          "B. pencil",
+          "C. bell",
+          "D. hat"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → pen: cái bút mực"
+      },
+      {
+        "id": 156,
+        "question": "I ____ a bell.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. have",
+          "B. has",
+          "C. having",
+          "D. had"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "I ___ a bell.\n✅ A → chủ ngữ I dùng have"
+      },
+      {
+        "id": 157,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/pen.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/pen.mp3",
+        "choices": [
+          "A. pen",
+          "B. pencil",
+          "C. bell",
+          "D. hat"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe và chọn\n✅ A → pen: cái bút mực"
+      },
+      {
+        "id": 158,
+        "question": "Listen and choose the correct letter.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/e.mp3",
+        "choices": [
+          "A. h",
+          "B. i",
+          "C. e",
+          "D. b"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Nghe âm chọn chữ (phonics)\n✅ C → âm /i/ (chữ e)"
+      },
+      {
+        "id": 159,
+        "question": "Choose the missing letter: p_n",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/pen.mp3",
+        "choices": [
+          "A. e",
+          "B. a",
+          "C. i",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: p_n\n✅ A → pen: cái bút mực"
+      },
+      {
+        "id": 160,
+        "question": "Choose the unnecessary letter: redz",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. r",
+          "B. e",
+          "C. d",
+          "D. z"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn chữ thừa: redz\n✅ D → red: màu đỏ (bỏ z)"
+      },
+      {
+        "id": 161,
+        "question": "Find the mistake: Ben have a pen.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. Ben",
+          "B. have",
+          "C. a",
+          "D. pen"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Tìm lỗi sai: Ben have a pen.\n✅ B → Ben ngôi thứ 3 số ít dùng has"
+      },
+      {
+        "id": 162,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. pen",
+          "B. pencil",
+          "C. book",
+          "D. classroom"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là đồ dùng học tập, classroom là địa điểm"
+      },
+      {
+        "id": 163,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/hat.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. hat",
+          "B. cap",
+          "C. bag",
+          "D. kite"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → hat: cái mũ"
+      },
+      {
+        "id": 164,
+        "question": "____ has a pen.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/benhasapen.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. Ben",
+          "B. I",
+          "C. You",
+          "D. They"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "___ has a pen.\n✅ A → Ben ngôi thứ 3 số ít dùng has"
+      },
+      {
+        "id": 165,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/bell.mp3",
+        "choices": [
+          "A. bell",
+          "B. pen",
+          "C. hat",
+          "D. kite"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe và chọn\n✅ A → bell: cái chuông"
+      },
+      {
+        "id": 166,
+        "question": "Listen and choose the correct letter.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/b.mp3",
+        "choices": [
+          "A. p",
+          "B. b",
+          "C. t",
+          "D. c"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Nghe âm chọn chữ (phonics)\n✅ B → âm /b/ (chữ b)"
+      },
+      {
+        "id": 167,
+        "question": "Choose the missing letter: b_ll",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/bell.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. e",
+          "B. a",
+          "C. i",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: b_ll\n✅ A → bell: cái chuông"
+      },
+      {
+        "id": 168,
+        "question": "Choose the unnecessary letter: pexn",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. p",
+          "B. e",
+          "C. x",
+          "D. n"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Chọn chữ thừa: pezn\n✅ B → pen: cái bút mực (bỏ x)"
+      },
+      {
+        "id": 169,
+        "question": "Find the mistake: This is <u>Linh</u>. <u>She</u> <u>has</u> a red <u>bags</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisislinhshehasaredbag.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. Linh",
+          "B. She",
+          "C. has",
+          "D. bags"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Tìm lỗi sai: This is Linh. She has a red bags.\n✅ D → a red bag (sau a là danh từ số ít)"
+      },
+      {
+        "id": 170,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. hen",
+          "B. duck",
+          "C. bird",
+          "D. pen"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là con vật, pen là đồ vật"
+      },
+      {
+        "id": 171,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/pencil.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. pencil",
+          "B. pen",
+          "C. bell",
+          "D. hat"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → pencil: bút chì"
+      },
+      {
+        "id": 172,
+        "question": "This is Linh. ____ has a red bag.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisislinhshehasaredbag.mp3",
+        "choices": [
+          "A. He",
+          "B. She",
+          "C. It",
+          "D. They"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "This is Linh. ___ has a red bag.\n✅ B → Linh con gái dùng She"
+      },
+      {
+        "id": 173,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/benhasaredpen.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/benhasaredpen.mp3",
+        "choices": [
+          "A. Ben has a red pen.",
+          "B. Linh has a red bag.",
+          "C. Bill has a red hat.",
+          "D. Mai has a red bell."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe và chọn\n✅ A → Ben has a red pen: Ben có một cái bút mực màu đỏ"
+      },
+      {
+        "id": 174,
+        "question": "Listen and choose the correct letter.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/i.mp3",
+        "choices": [
+          "A. e",
+          "B. a",
+          "C. i",
+          "D. o"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Nghe âm chọn chữ (phonics)\n✅ C → âm /i/ (chữ i)"
+      },
+      {
+        "id": 175,
+        "question": "Choose the missing letter: h_t",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/hat.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. a",
+          "B. e",
+          "C. i",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: h_t\n✅ A → hat: cái mũ"
+      },
+      {
+        "id": 176,
+        "question": "Choose the unnecessary letter: benll",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. b",
+          "B. e",
+          "C. n",
+          "D. l"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Chọn chữ thừa: benll\n✅ C → bell: cái chuông (bỏ n)"
+      },
+      {
+        "id": 177,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. classroom",
+          "B. school",
+          "C. playground",
+          "D. pencil case"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là địa điểm, pencil case là đồ vật"
+      },
+      {
+        "id": 178,
+        "question": "Find the mistake: It's a red pens.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/it'saredpen.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. It's",
+          "B. a",
+          "C. red",
+          "D. pens"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Tìm lỗi sai: It's a red pens.\n✅ D → sau a dùng số ít: a pen"
+      },
+      {
+        "id": 179,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/bell.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. bell",
+          "B. pen",
+          "C. hat",
+          "D. pencil"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → bell: cái chuông"
+      },
+      {
+        "id": 180,
+        "question": "It's ____ pen.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. a",
+          "B. an",
+          "C. is",
+          "D. are"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "It's ___ pen.\n✅ A → pen bắt đầu bằng phụ âm → dùng a"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Our toys",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/zoo.png",
+    "scenes": [
+      {
+        "id": 181,
+        "question": "Choose the missing letter: g_rl",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. i",
+          "B. a",
+          "C. e",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: g_rl\n✅ A → girl: bạn gái"
+      },
+      {
+        "id": 182,
+        "question": "Choose the unnecessary letter: boyx",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. b",
+          "B. o",
+          "C. y",
+          "D. x"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn chữ thừa: boyx\n✅ D → boy: bạn trai (bỏ x)"
+      },
+      {
+        "id": 183,
+        "question": "Find the mistake: <u>This</u> is Ben. <u>He</u> <u>have</u> a goat.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisisbenhehasagoat.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. This",
+          "B. He",
+          "C. have",
+          "D. a goat"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Tìm lỗi sai: This is Ben. He have a goat.\n✅ C → Chủ ngữ là he phải đi với has"
+      },
+      {
+        "id": 184,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. goat",
+          "B. duck",
+          "C. bird",
+          "D. garden"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là con vật, garden là địa điểm"
+      },
+      {
+        "id": 185,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/girl.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. girl",
+          "B. boy",
+          "C. goat",
+          "D. gate"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → girl: bạn gái"
+      },
+      {
+        "id": 186,
+        "question": "There ____ a goat in the garden.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thereisagoatinthegarden.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. is",
+          "B. are",
+          "C. am",
+          "D. be"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "There ___ a goat in the garden.\n✅ A → a goat số ít dùng is"
+      },
+      {
+        "id": 187,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/goat.mp3",
+        "choices": [
+          "A. goat",
+          "B. gate",
+          "C. garden",
+          "D. girl"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe và chọn\n✅ A → goat: con dê"
+      },
+      {
+        "id": 188,
+        "question": "Listen and choose the correct letter.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/g.mp3",
+        "choices": [
+          "A. g",
+          "B. d",
+          "C. b",
+          "D. p"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe âm chọn chữ (phonics)\n✅ A → âm /g/ (chữ g: goat, girl, garden)"
+      },
+      {
+        "id": 189,
+        "question": "Choose the missing letter: g_te",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. a",
+          "B. e",
+          "C. i",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: g_te\n✅ A → gate: cái cổng"
+      },
+      {
+        "id": 190,
+        "question": "Choose the unnecessary letter: goath",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. g",
+          "B. o",
+          "C. t",
+          "D. h"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn chữ thừa: goath\n✅ D → goat: con dê (bỏ h)"
+      },
+      {
+        "id": 191,
+        "question": "Find the mistake: <u>The boy</u> <u>are</u> <u>in</u> <u>the playground</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theboyisintheplayground.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. The boy",
+          "B. are",
+          "C. in",
+          "D. the playground"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Tìm lỗi sai: The boy are in the playground.\n✅ B → The boy số ít dùng is"
+      },
+      {
+        "id": 192,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. garden",
+          "B. school",
+          "C. playground",
+          "D. goat"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là địa điểm, goat là con vật"
+      },
+      {
+        "id": 193,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/gate.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. gate",
+          "B. garden",
+          "C. goat",
+          "D. girl"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → gate: cái cổng"
+      },
+      {
+        "id": 194,
+        "question": "____ is a boy in the garden.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thereisaboyinthegarden.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. There",
+          "B. It",
+          "C. He",
+          "D. This"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "___ is a boy in the garden.\n✅ A → mẫu câu There is"
+      },
+      {
+        "id": 195,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/garden.mp3",
+        "choices": [
+          "A. garden",
+          "B. gate",
+          "C. goat",
+          "D. school"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe và chọn\n✅ A → garden: khu vườn"
+      },
+      {
+        "id": 196,
+        "question": "Listen and choose the correct letter.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/b.mp3",
+        "choices": [
+          "A. b",
+          "B. g",
+          "C. p",
+          "D. d"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe âm chọn chữ (phonics)\n✅ A → âm /b/ (chữ b: boy, bell, bird)"
+      },
+      {
+        "id": 197,
+        "question": "Choose the missing letter: g_at",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. o",
+          "B. a",
+          "C. e",
+          "D. i"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: g_at\n✅ A → goat: con dê"
+      },
+      {
+        "id": 198,
+        "question": "Choose the unnecessary letter: gatre",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. g",
+          "B. a",
+          "C. t",
+          "D. r"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn chữ thừa: gatre\n✅ D → gate: cái cổng (bỏ r)"
+      },
+      {
+        "id": 199,
+        "question": "Find the mistake: This is Mai. He is in the garden.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisismaisheisinthegarden.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. This is Mai",
+          "B. He",
+          "C. is",
+          "D. in the garden"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Tìm lỗi sai: This is Mai. He is in the garden.\n✅ B → Mai con gái dùng She"
+      },
+      {
+        "id": 200,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. coat",
+          "B. hat",
+          "C. bag",
+          "D. goat"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia là đồ vật, goat là con vật"
+      },
+      {
+        "id": 201,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/boy.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. boy",
+          "B. girl",
+          "C. goat",
+          "D. gate"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nhìn tranh chọn đáp án\n✅ A → boy: bạn trai"
+      },
+      {
+        "id": 202,
+        "question": "The girl is ____ the garden.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. in",
+          "B. on",
+          "C. at",
+          "D. of"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "The girl is ___ the garden.\n✅ A → in: ở bên trong một nơi"
+      },
+      {
+        "id": 203,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisagoatinthegarden.mp3",
+        "choices": [
+          "A. There is a goat in the garden.",
+          "B. There is a girl in the garden.",
+          "C. There is a boy in the playground.",
+          "D. There is a duck in the garden."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe và chọn\n✅ A → There is a goat in the garden: Có một con dê ở trong vườn"
+      },
+      {
+        "id": 204,
+        "question": "Listen and choose the correct letter.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/d.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/d.mp3",
+        "choices": [
+          "A. d",
+          "B. g",
+          "C. b",
+          "D. t"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Nghe âm chọn chữ (phonics)\n✅ A → âm /d/ (chữ d: duck, red, bird)"
+      },
+      {
+        "id": 205,
+        "question": "Choose the missing letter: co_t",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. a",
+          "B. e",
+          "C. i",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Chọn chữ còn thiếu: co_t\n✅ A → coat: áo khoác"
+      },
+      {
+        "id": 206,
+        "question": "Choose the unnecessary letter: boatd",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. b",
+          "B. o",
+          "C. t",
+          "D. d"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn chữ thừa: boatd\n✅ D → boat: con thuyền (bỏ d)"
+      },
+      {
+        "id": 207,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. girl",
+          "B. boy",
+          "C. Ben",
+          "D. green"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Chọn từ khác loại\n✅ D → 3 từ kia chỉ người, green là màu sắc"
+      },
+      {
+        "id": 208,
+        "question": "Find the mistake: <u>It's</u> <u>a</u> <u>goats</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/it'sagoat.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. It's",
+          "B. a",
+          "C. green",
+          "D. goats"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Tìm lỗi sai: It's a green goats.\n✅ D → sau a dùng số ít: a goat"
+      },
+      {
+        "id": 209,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/boat.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. coat",
+          "B. boat",
+          "C. goat",
+          "D. gate"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "Nhìn tranh chọn đáp án\n✅ B → boat: con thuyền"
+      },
+      {
+        "id": 210,
+        "question": "It's ____ goat.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. a",
+          "B. an",
+          "C. is",
+          "D. some"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "It's ___ goat.\n✅ A → goat bắt đầu bằng phụ âm → dùng a"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Playing and doing",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/swing.png",
+    "scenes": [
+      {
+        "id": 211,
+        "question": "Choose the missing letter: h_nd",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. a",
+          "B. e",
+          "C. i",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "h_nd → hand: bàn tay"
+      },
+      {
+        "id": 212,
+        "question": "Choose the unnecessary letter: hainr",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. h",
+          "B. i",
+          "C. n",
+          "D. r"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "✅ C. n / hainr → hair: tóc"
+      },
+      {
+        "id": 213,
+        "question": "Find the mistake: <u>This</u> is Nam. <u>He</u> <u>have</u> a horse.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisisnamhehasahorse.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. This",
+          "B. He",
+          "C. have",
+          "D. a horse"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "✅ C. → He đi với has"
+      },
+      {
+        "id": 214,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. hand",
+          "B. hair",
+          "C. head",
+          "D. horse"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "✅ D. horse / 3 từ đầu là bộ phận cơ thể, horse là con vật"
+      },
+      {
+        "id": 215,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/hand.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. hand",
+          "B. hair",
+          "C. head",
+          "D. horse"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. hand – bàn tay"
+      },
+      {
+        "id": 216,
+        "question": "Touch ____ hand.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/touchyourhand.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/touchyourhand.mp3",
+        "choices": [
+          "A. your",
+          "B. you",
+          "C. are",
+          "D. the"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. your / sở hữu \"của em\" → \"your\""
+      },
+      {
+        "id": 217,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/horse.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/horse.mp3",
+        "choices": [
+          "A. horse",
+          "B. house",
+          "C. head",
+          "D. hand"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. horse – con ngựa"
+      },
+      {
+        "id": 218,
+        "question": "Listen and choose the correct letter.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/h.mp3",
+        "choices": [
+          "A. h",
+          "B. g",
+          "C. b",
+          "D. d"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. h – âm /h/ như trong hand, hair, head, horse, hat"
+      },
+      {
+        "id": 219,
+        "question": "Choose the missing letter: h_ir",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. a",
+          "B. e",
+          "C. i",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "h_ir → hair: tóc"
+      },
+      {
+        "id": 220,
+        "question": "Choose the unnecessary letter: heatd",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/touchyourhead.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. h",
+          "B. e",
+          "C. t",
+          "D. d"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "✅ C. t / heatd → head: cái đầu"
+      },
+      {
+        "id": 221,
+        "question": "Find the mistake: <u>The horse</u> <u>are</u> <u>in</u> <u>the garden</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thehorseisinthegarden.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. The horse",
+          "B. are",
+          "C. in",
+          "D. the garden"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "✅ B. are / \"The horse\" số ít → dùng \"is\""
+      },
+      {
+        "id": 222,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. bed",
+          "B. chair",
+          "C. house",
+          "D. head"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "✅ D. head / 3 từ đầu là đồ vật/nơi chốn, head là bộ phận cơ thể"
+      },
+      {
+        "id": 223,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/head.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. head",
+          "B. hair",
+          "C. hand",
+          "D. hat"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. head – cái đầu"
+      },
+      {
+        "id": 224,
+        "question": "____ is a horse in the garden.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. There",
+          "B. She",
+          "C. He",
+          "D. This"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. There / mẫu câu \"There is\""
+      },
+      {
+        "id": 225,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/house.mp3",
+        "choices": [
+          "A. house",
+          "B. horse",
+          "C. head",
+          "D. hand"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. house – ngôi nhà"
+      },
+      {
+        "id": 226,
+        "question": "Listen and choose the correct letter.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/g.mp3",
+        "choices": [
+          "A. g",
+          "B. h",
+          "C. b",
+          "D. d"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. g – âm /g/ như trong goat, girl, garden, gate"
+      },
+      {
+        "id": 227,
+        "question": "Choose the missing letter: h_rse",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. o",
+          "B. a",
+          "C. e",
+          "D. i"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "h_rse → horse: con ngựa"
+      },
+      {
+        "id": 228,
+        "question": "Choose the unnecessary letter: thouse",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/house.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. h",
+          "B. o",
+          "C. e",
+          "D. t"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "✅ D. t / thouse → house: ngôi nhà"
+      },
+      {
+        "id": 229,
+        "question": "Find the mistake: <u>It's</u> <u>a</u> <u>red</u> <u>hats</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/it'saredhat.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. It's",
+          "B. a",
+          "C. red",
+          "D. hats"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "✅ D. hats / sau \"a\" dùng số ít → \"hat\""
+      },
+      {
+        "id": 230,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. horse",
+          "B. cat",
+          "C. duck",
+          "D. chair"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "✅ D. chair / 3 từ đầu là con vật, chair là đồ vật"
+      },
+      {
+        "id": 231,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/hair.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. hair",
+          "B. hand",
+          "C. head",
+          "D. hat"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. hair – tóc"
+      },
+      {
+        "id": 232,
+        "question": "I have two ____.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. hands",
+          "B. hand",
+          "C. hairs",
+          "D. heads"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. hands / \"two\" → số nhiều → \"hands\""
+      },
+      {
+        "id": 233,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/touchyourhead.mp3",
+        "choices": [
+          "A. Touch your head.",
+          "B. Touch your hair.",
+          "C. Touch your hand.",
+          "D. Touch your horse."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. Touch your head. – Chạm vào đầu của em."
+      },
+      {
+        "id": 234,
+        "question": "Listen and choose the correct letter.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/b.mp3",
+        "choices": [
+          "A. b",
+          "B. h",
+          "C. g",
+          "D. p"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. b – âm /b/ như trong bed, boy, bell, bird"
+      },
+      {
+        "id": 235,
+        "question": "Choose the missing letter: b_d",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/bed.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/bed.mp3",
+        "choices": [
+          "A. e",
+          "B. a",
+          "C. i",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "b_d → bed: cái giường"
+      },
+      {
+        "id": 236,
+        "question": "Choose the unnecessary letter: chairz",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. c",
+          "B. h",
+          "C. r",
+          "D. z"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "✅ D. z / chairz → chair: cái ghế"
+      },
+      {
+        "id": 237,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. hand",
+          "B. hair",
+          "C. head",
+          "D. house"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "✅ D. house / 3 từ đầu là bộ phận cơ thể, house là đồ vật"
+      },
+      {
+        "id": 238,
+        "question": "Find the mistake: <u>It</u> <u>is</u> <u>a</u> <u>houses</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/itisahouse.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. It",
+          "B. is",
+          "C. a",
+          "D. houses"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "✅ D. houses / sau \"a\" dùng số ít → \"house\""
+      },
+      {
+        "id": 239,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/bed.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. bed",
+          "B. chair",
+          "C. house",
+          "D. hat"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. bed – cái giường"
+      },
+      {
+        "id": 240,
+        "question": "It's ____ horse.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/itisahorse.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. a",
+          "B. an",
+          "C. are",
+          "D. some"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. a / \"horse\" bắt đầu phụ âm → \"a\""
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "text": "",
+    "imageUrl": "",
+    "scenes": [
+      {
+        "id": 241,
+        "question": "Choose the missing letter: b_ll",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ball.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. a",
+          "B. e",
+          "C. i",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "b_ll → ball: quả bóng"
+      },
+      {
+        "id": 242,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. ball",
+          "B. bike",
+          "C. kite",
+          "D. school"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Choose the odd one out. (Chọn từ khác loại) / A. ball – quả bóng / B. bike – xe đạp / C. kite – con diều / ✅ D. school – trường học / 👉 Giải thích: 3 từ đầu là đồ vật. \"school\" là địa điểm – khác loại."
+      },
+      {
+        "id": 243,
+        "question": "It's ____ pen.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/it'sapen.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. some"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. a / It's a pen. / → Đó là một cái bút mực. / \"pen\" bắt đầu bằng phụ âm → dùng \"a\"."
+      },
+      {
+        "id": 244,
+        "question": "Choose the unnecessary letter: cupx",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. c",
+          "B. u",
+          "C. p",
+          "D. x"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "✅ D. x / Choose the unnecessary letter: cupx / → Chọn chữ cái thừa: cupx / cupx → cup: cái cốc"
+      },
+      {
+        "id": 245,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/cat.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. cat",
+          "B. dog",
+          "C. bird",
+          "D. car"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Look and choose the correct answer. (Xem tranh và chọn đáp án đúng) / ✅ A. cat – con mèo / B. dog – con chó / C. bird – con chim / D. car – ô tô"
+      },
+      {
+        "id": 246,
+        "question": "Find the mistake: <u>There</u> <u>is</u> <u>a</u> <u>apple</u> in the bag.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thereisanappleinthebag.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. There",
+          "B. is",
+          "C. a",
+          "D. apple"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "✅ C. a / → \"apple\" nguyên âm → phải dùng \"an\"."
+      },
+      {
+        "id": 247,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/hat.mp3",
+        "choices": [
+          "A. hat",
+          "B. cap",
+          "C. can",
+          "D. bag"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Listen and choose the correct answer. (Nghe và chọn đáp án đúng) / ✅ A. hat – cái mũ / B. cap – mũ lưỡi trai / C. can – lon nước / D. bag – cái túi"
+      },
+      {
+        "id": 248,
+        "question": "I ____ a pencil.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. have",
+          "B. has",
+          "C. having",
+          "D. had"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. have / I have a pencil. / → Tôi có một cái bút chì. / Chủ ngữ \"I\" → \"have\"."
+      },
+      {
+        "id": 249,
+        "question": "Find the mistake: <u>I</u> <u>has</u> <u>a</u> <u>bell</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ihaveabell.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. I",
+          "B. has",
+          "C. a",
+          "D. bell"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "✅ B. has / → Chủ ngữ \"I\" → phải dùng \"have\"."
+      },
+      {
+        "id": 250,
+        "question": "Choose the missing letter: boo_",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/book.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. t",
+          "B. k",
+          "C. p",
+          "D. d"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "boo_ → book: quyển sách"
+      },
+      {
+        "id": 251,
+        "question": "Choose the unnecessary letter: bpag",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. b",
+          "B. p",
+          "C. a",
+          "D. g"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "✅ B. p / Choose the unnecessary letter: bpag / → Chọn chữ cái thừa: bpag → bag: cái túi"
+      },
+      {
+        "id": 252,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisanappleinthebasket.mp3",
+        "choices": [
+          "A. There is an apple in the basket.",
+          "B. There is a can in the bag.",
+          "C. There is a hat on the table.",
+          "D. There is a cat on the chair."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Listen and choose. (Nghe và chọn) / ✅ A. There is an apple in the basket. – Có một quả táo trong giỏ. / B. There is a can in the bag. / C. There is a hat on the table. / D. There is a cat on the chair."
+      },
+      {
+        "id": 253,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/cake.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. cake",
+          "B. cookie",
+          "C. candy",
+          "D. cup"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Look and choose the correct answer. (Xem tranh và chọn đáp án đúng) / ✅ A. cake – bánh ngọt / B. cookie – bánh quy / C. candy – kẹo / D. cup – cái cốc"
+      },
+      {
+        "id": 254,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. cat",
+          "B. dog",
+          "C. bird",
+          "D. cup"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Choose the odd one out. (Chọn từ khác loại) / A. cat – con mèo / B. dog – con chó / C. bird – con chim / ✅ D. cup – cái cốc / 👉 Giải thích: 3 từ đầu là con vật. \"cup\" là đồ vật – khác loại."
+      },
+      {
+        "id": 255,
+        "question": "Ben ____ a ball.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/benhasaball.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. have",
+          "B. has",
+          "C. having",
+          "D. had"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "✅ B. has / Ben has a ball. / → Ben có một quả bóng. / Ben số ít → \"has\"."
+      },
+      {
+        "id": 256,
+        "question": "Choose the missing letter: c_r",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. a",
+          "B. e",
+          "C. i",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "c_r → car: ô tô"
+      },
+      {
+        "id": 257,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/bell.mp3",
+        "choices": [
+          "A. bell",
+          "B. pen",
+          "C. hat",
+          "D. cup"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Listen and choose the correct answer. (Nghe và chọn đáp án đúng) / ✅ A. bell – cái chuông / B. pen – cái bút mực / C. hat – cái mũ / D. cup – cái cốc"
+      },
+      {
+        "id": 258,
+        "question": "Find the mistake: <u>Ben</u> <u>have</u> <u>a</u> <u>pen</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/benhasapen.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. Ben",
+          "B. have",
+          "C. a",
+          "D. pen"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "✅ B. have / → Ben số ít → phải dùng \"has\"."
+      },
+      {
+        "id": 259,
+        "question": "Choose the unnecessary letter: penx",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. p",
+          "B. e",
+          "C. n",
+          "D. x"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "✅ D. x / Choose the unnecessary letter: penx / → Chọn chữ cái thừa: penx / penx → pen: cái bút mực"
+      },
+      {
+        "id": 260,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. pen",
+          "B. pencil",
+          "C. bell",
+          "D. dog"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Choose the odd one out. (Chọn từ khác loại) / A. pen – cái bút mực / B. pencil – bút chì / C. bell – cái chuông / ✅ D. dog – con chó / 👉 Giải thích: 3 từ đầu là đồ dùng học tập. \"dog\" là con vật – khác loại."
+      },
+      {
+        "id": 261,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveacatandacar.mp3",
+        "choices": [
+          "A. I have a cat and a car.",
+          "B. I have a cat and a cake.",
+          "C. I have a car and a cup.",
+          "D. I have a cake and a cup."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Listen and choose. (Nghe và chọn) / ✅ A. I have a cat and a car. – Tôi có một con mèo và một chiếc ô tô. / B. I have a cat and a cake. / C. I have a car and a cup. / D. I have a cake and a cup."
+      },
+      {
+        "id": 262,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/pen.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. pen",
+          "B. pencil",
+          "C. bell",
+          "D. hat"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Look and choose the correct answer. (Xem tranh và chọn đáp án đúng) / ✅ A. pen – cái bút mực / B. pencil – bút chì / C. bell – cái chuông / D. hat – cái mũ"
+      },
+      {
+        "id": 263,
+        "question": "There is ____ apple in the bag.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. a",
+          "B. an",
+          "C. the",
+          "D. some"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "✅ B. an / There is an apple in the bag. / → Có một quả táo trong túi. / \"apple\" nguyên âm → \"an\"."
+      },
+      {
+        "id": 264,
+        "question": "Find the mistake: <u>There</u> <u>is</u> <u>an</u> <u>hat</u> on the table.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. There",
+          "B. is",
+          "C. an",
+          "D. hat"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "✅ C. an / → \"hat\" phụ âm → phải dùng \"a\"."
+      },
+      {
+        "id": 265,
+        "question": "Choose the missing letter: ca_",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/can.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. n",
+          "B. m",
+          "C. t",
+          "D. d"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "ca_ → can: lon nước"
+      },
+      {
+        "id": 266,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. cake",
+          "B. cookie",
+          "C. candy",
+          "D. cat"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Choose the odd one out. (Chọn từ khác loại) / A. cake – bánh ngọt / B. cookie – bánh quy / C. candy – kẹo / ✅ D. cat – con mèo / 👉 Giải thích: 3 từ đầu là đồ ăn. \"cat\" là con vật – khác loại."
+      },
+      {
+        "id": 267,
+        "question": "There is a cake ____ the box.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thereisacakeonthebox.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. in",
+          "B. on",
+          "C. at",
+          "D. to"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "✅ B. on / There is a cake on the box. / → Có một cái bánh ở trên cái hộp."
+      },
+      {
+        "id": 268,
+        "question": "Choose the unnecessary letter: bekll",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. b",
+          "B. e",
+          "C. k",
+          "D. l"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "✅ C. k / Choose the unnecessary letter: bekll / → Chọn chữ cái thừa: bekll → bell: cái chuông"
+      },
+      {
+        "id": 269,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/cup.mp3",
+        "choices": [
+          "A. cup",
+          "B. cake",
+          "C. cap",
+          "D. candy"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Listen and choose the correct answer. (Nghe và chọn đáp án đúng) / ✅ A. cup – cái cốc / B. cake – bánh ngọt / C. cap – mũ lưỡi trai / D. candy – kẹo"
+      },
+      {
+        "id": 270,
+        "question": "Find the mistake: <u>Ben</u> <u>have</u> <u>a</u> <u>pen</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/benhasapen.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. Ben",
+          "B. have",
+          "C. a",
+          "D. pen"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "✅ B. have / → Ben số ít → phải dùng \"has\"."
+      },
+      {
+        "id": 271,
+        "question": "Choose the missing letter: d_ck",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/duck.mp3",
+        "choices": [
+          "A. u",
+          "B. a",
+          "C. e",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "d_ck → duck: con vịt"
+      },
+      {
+        "id": 272,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. duck",
+          "B. dog",
+          "C. bird",
+          "D. car"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Choose the odd one out. (Chọn từ khác loại) / A. duck – con vịt / B. dog – con chó / C. bird – con chim / ✅ D. car – ô tô / 👉 Giải thích: 3 từ đầu là con vật. \"car\" là phương tiện – khác loại."
+      },
+      {
+        "id": 273,
+        "question": "The desk is ____ the window.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thedeskisnearthewindow.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. near",
+          "B. on",
+          "C. in",
+          "D. at"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. near / The desk is near the window. / → Cái bàn ở gần cửa sổ."
+      },
+      {
+        "id": 274,
+        "question": "Choose the unnecessary letter: gatez",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. g",
+          "B. a",
+          "C. t",
+          "D. z"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "✅ D. z / Choose the unnecessary letter: gatez / → Chọn chữ cái thừa: gatez / gatez → gate: cái cổng"
+      },
+      {
+        "id": 275,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/dog.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. dog",
+          "B. cat",
+          "C. bird",
+          "D. bus"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Look and choose the correct answer. (Xem tranh và chọn đáp án đúng) / ✅ A. dog – con chó / B. cat – con mèo / C. bird – con chim / D. bus – xe buýt"
+      },
+      {
+        "id": 276,
+        "question": "Find the mistake: <u>Billy</u> <u>am</u> <u>in</u> the <u>classroom</u>.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. Billy",
+          "B. am",
+          "C. in",
+          "D. classroom"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "✅ B. am / → Billy số ít → phải dùng \"is\"."
+      },
+      {
+        "id": 277,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/goat.mp3",
+        "choices": [
+          "A. goat",
+          "B. dog",
+          "C. duck",
+          "D. cat"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Listen and choose the correct answer. (Nghe và chọn đáp án đúng) / ✅ A. goat – con dê / B. dog – con chó / C. duck – con vịt / D. cat – con mèo"
+      },
+      {
+        "id": 278,
+        "question": "The dog is ____ the door.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thedogisnearthedoor.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. near",
+          "B. on",
+          "C. in",
+          "D. at"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. near / The dog is near the door. / → Con chó ở gần cửa."
+      },
+      {
+        "id": 279,
+        "question": "Find the mistake: <u>This</u> <u>are</u> <u>my</u> <u>kite</u>.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. This",
+          "B. are",
+          "C. my",
+          "D. kite"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "✅ B. are / → \"This\" số ít → phải dùng \"is\"."
+      },
+      {
+        "id": 280,
+        "question": "Choose the missing letter: d_sk",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/desk.mp3",
+        "choices": [
+          "A. e",
+          "B. a",
+          "C. i",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "d_sk → desk: cái bàn học"
+      },
+      {
+        "id": 281,
+        "question": "Choose the unnecessary letter: cootkie",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. c",
+          "B. o",
+          "C. t",
+          "D. k"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "✅ C. t / Choose the unnecessary letter: cootkie / → Chọn chữ cái thừa: cootkie → cookie: bánh quy"
+      },
+      {
+        "id": 282,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisagoatinthegarden.mp3",
+        "choices": [
+          "A. There is a goat in the garden.",
+          "B. There is a girl in the garden.",
+          "C. There is a boy in the playground.",
+          "D. There is a duck in the garden."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Listen and choose. (Nghe và chọn) / ✅ A. There is a goat in the garden. – Có một con dê trong vườn. / B. There is a girl in the garden. / C. There is a boy in the playground. / D. There is a duck in the garden."
+      },
+      {
+        "id": 283,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/chicken.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. chicken",
+          "B. fish",
+          "C. milk",
+          "D. cake"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Look and choose the correct answer. (Xem tranh và chọn đáp án đúng) / ✅ A. chicken – thịt gà / B. fish – cá / C. milk – sữa / D. cake – bánh ngọt"
+      },
+      {
+        "id": 284,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. garden",
+          "B. school",
+          "C. playground",
+          "D. book"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Choose the odd one out. (Chọn từ khác loại) / A. garden – khu vườn / B. school – trường học / C. playground – sân chơi / ✅ D. book – quyển sách / 👉 Giải thích: 3 từ đầu là địa điểm. \"book\" là đồ vật – khác loại."
+      },
+      {
+        "id": 285,
+        "question": "I ____ milk.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. like",
+          "B. likes",
+          "C. liking",
+          "D. to like"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. like / I like milk. / → Tôi thích sữa."
+      },
+      {
+        "id": 286,
+        "question": "Choose the missing letter: f_sh",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/fish.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. i",
+          "B. a",
+          "C. e",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "f_sh → fish: cá"
+      },
+      {
+        "id": 287,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/bus.mp3",
+        "choices": [
+          "A. bus",
+          "B. car",
+          "C. bike",
+          "D. cat"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Listen and choose the correct answer. (Nghe và chọn đáp án đúng) / ✅ A. bus – xe buýt / B. car – ô tô / C. bike – xe đạp / D. cat – con mèo"
+      },
+      {
+        "id": 288,
+        "question": "Find the mistake: <u>She</u> <u>is</u> <u>in</u> <u>home</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/sheisathome.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/sheisathome.mp3",
+        "choices": [
+          "A. She",
+          "B. is",
+          "C. in",
+          "D. home"
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "✅ C. in / → Phải dùng \"at home\"."
+      },
+      {
+        "id": 289,
+        "question": "Choose the unnecessary letter: dogz",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. d",
+          "B. o",
+          "C. g",
+          "D. z"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "✅ D. z / Choose the unnecessary letter: dogz / → Chọn chữ cái thừa: dogz / dogz → dog: con chó"
+      },
+      {
+        "id": 290,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. fish",
+          "B. chips",
+          "C. chicken",
+          "D. bat"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Choose the odd one out. (Chọn từ khác loại) / A. fish – cá / B. milk – sữa / C. chicken – thịt gà / ✅ D. bat – con dơi / 👉 Giải thích: 3 từ đầu là đồ ăn. \"bat\" là con vật – khác loại."
+      },
+      {
+        "id": 291,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikefishandchips.mp3",
+        "choices": [
+          "A. I like fish and chips.",
+          "B. I like milk and chicken.",
+          "C. I like chicken and chips.",
+          "D. I like fish and milk."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Listen and choose. (Nghe và chọn) / ✅ A. I like fish and chips. – Tôi thích cá và khoai tây chiên. / B. I like milk and chicken. / C. I like chicken and chips. / D. I like fish and milk."
+      },
+      {
+        "id": 292,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/gate.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. gate",
+          "B. door",
+          "C. desk",
+          "D. cup"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Look and choose the correct answer. (Xem tranh và chọn đáp án đúng) / ✅ A. gate – cái cổng / B. door – cái cửa / C. desk – cái bàn học / D. cup – cái cốc"
+      },
+      {
+        "id": 293,
+        "question": "I like chicken ____ chips.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikechickenandchips.mp3",
+        "choices": [
+          "A. and",
+          "B. but",
+          "C. or",
+          "D. the"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. and / I like chicken and chips. / → Tôi thích gà và khoai tây chiên."
+      },
+      {
+        "id": 294,
+        "question": "Find the mistake: <u>The</u> <u>dog</u> <u>are</u> <u>near</u> <u>the door</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thedogisnearthedoor.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. The dog",
+          "B. are",
+          "C. near",
+          "D. the door"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "✅ B. are / → \"The dog\" số ít → phải dùng \"is\"."
+      },
+      {
+        "id": 295,
+        "question": "Choose the missing letter: g_rl",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. i",
+          "B. a",
+          "C. e",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "g_rl → girl: bạn gái"
+      },
+      {
+        "id": 296,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. car",
+          "B. bus",
+          "C. bike",
+          "D. book"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Choose the odd one out. (Chọn từ khác loại) / A. car – ô tô / B. bus – xe buýt / C. bike – xe đạp / ✅ D. book – quyển sách / 👉 Giải thích: 3 từ đầu là phương tiện. \"book\" là đồ vật – khác loại."
+      },
+      {
+        "id": 297,
+        "question": "There ____ a boy in the garden.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thereisaboyinthegarden.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. is",
+          "B. are",
+          "C. am",
+          "D. be"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. is / There is a boy in the garden. / → Có một bạn trai trong vườn."
+      },
+      {
+        "id": 298,
+        "question": "Choose the unnecessary letter: birsd",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. b",
+          "B. i",
+          "C. r",
+          "D. s"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "✅ D. s / Choose the unnecessary letter: birsd / → Chọn chữ cái thừa: birsd → bird: con chim"
+      },
+      {
+        "id": 299,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/goat.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/goat.mp3",
+        "choices": [
+          "A. goat",
+          "B. dog",
+          "C. duck",
+          "D. cat"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Listen and choose the correct answer. (Nghe và chọn đáp án đúng) / ✅ A. goat – con dê / B. dog – con chó / C. duck – con vịt / D. cat – con mèo"
+      },
+      {
+        "id": 300,
+        "question": "Find the mistake: <u>Billy</u> <u>am</u> <u>in</u> <u>the</u> <u>classroom</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/billyisintheclassroom.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. Billy",
+          "B. am",
+          "C. in",
+          "D. classroom"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "✅ B. am / → Billy số ít → phải dùng \"is\"."
+      },
+      {
+        "id": 301,
+        "question": "Choose the missing letter: h_nd",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. a",
+          "B. e",
+          "C. i",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "h_nd → hand: bàn tay"
+      },
+      {
+        "id": 302,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. hand",
+          "B. hair",
+          "C. head",
+          "D. horse"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Choose the odd one out. (Chọn từ khác loại) / A. hand – bàn tay / B. hair – tóc / C. head – cái đầu / ✅ D. horse – con ngựa / 👉 Giải thích: 3 từ đầu là bộ phận cơ thể. \"horse\" là con vật – khác loại."
+      },
+      {
+        "id": 303,
+        "question": "I have two ____.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. hands",
+          "B. hand",
+          "C. hairs",
+          "D. heads"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. hands / I have two hands. / → Em có hai bàn tay. / \"two\" → số nhiều."
+      },
+      {
+        "id": 304,
+        "question": "Choose the unnecessary letter: hairl",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. h",
+          "B. a",
+          "C. r",
+          "D. l"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "✅ D. l / Choose the unnecessary letter: hairl / → Chọn chữ cái thừa: hairl → hair: tóc"
+      },
+      {
+        "id": 305,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/head.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. head",
+          "B. hair",
+          "C. hand",
+          "D. hat"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Look and choose the correct answer. (Xem tranh và chọn đáp án đúng) / ✅ A. head – cái đầu / B. hair – tóc / C. hand – bàn tay / D. hat – cái mũ"
+      },
+      {
+        "id": 306,
+        "question": "Find the mistake: This is Ben. She has a red pen.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisisbenhehasaredpen.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. This is Ben",
+          "B. She",
+          "C. has",
+          "D. a red pen"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "✅ B. She / → Ben là con trai → phải dùng \"He\"."
+      },
+      {
+        "id": 307,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/bat.mp3",
+        "choices": [
+          "A. bat",
+          "B. ant",
+          "C. cat",
+          "D. bird"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Listen and choose the correct answer. (Nghe và chọn đáp án đúng) / ✅ A. bat – con dơi / B. ant – con kiến / C. cat – con mèo / D. bird – con chim"
+      },
+      {
+        "id": 308,
+        "question": "Touch ____ hair.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. your",
+          "B. you",
+          "C. are",
+          "D. the"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. your / Touch your hair. / → Chạm vào tóc của em."
+      },
+      {
+        "id": 309,
+        "question": "Find the mistake: <u>The horse</u> <u>are</u> <u>in</u> <u>the garden</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thehorseisinthegarden.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. The horse",
+          "B. are",
+          "C. in",
+          "D. the garden"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "✅ B. are / → \"The horse\" số ít → phải dùng \"is\"."
+      },
+      {
+        "id": 310,
+        "question": "Choose the missing letter: h_ad",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. e",
+          "B. a",
+          "C. i",
+          "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "h_ad → head: cái đầu"
+      },
+      {
+        "id": 311,
+        "question": "Choose the unnecessary letter: kcoat",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. k",
+          "B. c",
+          "C. a",
+          "D. t"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. k / Choose the unnecessary letter: kcoat / → Chọn chữ cái thừa: kcoat → coat: áo khoác"
+      },
+      {
+        "id": 312,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thedeskisnearthewindow.mp3",
+        "choices": [
+          "A. The dog is near the door.",
+          "B. The duck is on the desk.",
+          "C. The desk is near the window.",
+          "D. The dog is on the desk."
+        ],
+        "correctAnswerIndex": 2,
+        "hint": "Listen and choose. (Nghe và chọn) / ✅ A. The dog is near the door. – Con chó ở gần cửa. / B. The duck is on the desk. / C. The desk is near the window. / D. The dog is on the desk."
+      },
+      {
+        "id": 313,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/horse.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. horse",
+          "B. dog",
+          "C. cat",
+          "D. goat"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Look and choose the correct answer. (Xem tranh và chọn đáp án đúng) / ✅ A. horse – con ngựa / B. dog – con chó / C. cat – con mèo / D. goat – con dê"
+      },
+      {
+        "id": 314,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. horse",
+          "B. cat",
+          "C. dog",
+          "D. chair"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Choose the odd one out. (Chọn từ khác loại) / A. horse – con ngựa / B. cat – con mèo / C. dog – con chó / ✅ D. chair – cái ghế / 👉 Giải thích: 3 từ đầu là con vật. \"chair\" là đồ vật – khác loại."
+      },
+      {
+        "id": 315,
+        "question": "This is ____ robot.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisismyrobot.mp3",
+        "choices": [
+          "A. my",
+          "B. a",
+          "C. an",
+          "D. the"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. my / This is my robot. / → Đây là người máy của tôi."
+      },
+      {
+        "id": 316,
+        "question": "Choose the missing letter: h_rse",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. o",
+          "B. a",
+          "C. e",
+          "D. i"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "h_rse → horse: con ngựa"
+      },
+      {
+        "id": 317,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ant.mp3",
+        "choices": [
+          "A. ant",
+          "B. bat",
+          "C. bird",
+          "D. cat"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Listen and choose the correct answer. (Nghe và chọn đáp án đúng) / ✅ A. ant – con kiến / B. bat – con dơi / C. bird – con chim / D. cat – con mèo"
+      },
+      {
+        "id": 318,
+        "question": "Find the mistake: <u>This</u> <u>is</u> <u>a</u> <u>robots</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisisarobot.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. This",
+          "B. is",
+          "C. a",
+          "D. robots"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "✅ D. robots / → \"This is my...\" đi với số ít → \"robot\"."
+      },
+      {
+        "id": 319,
+        "question": "Choose the unnecessary letter: dollb",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. d",
+          "B. o",
+          "C. l",
+          "D. b"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "✅ D. b / Choose the unnecessary letter: dollb / → Chọn chữ cái thừa: dollb → doll: búp bê"
+      },
+      {
+        "id": 320,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. hand",
+          "B. head",
+          "C. hair",
+          "D. house"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Choose the odd one out. (Chọn từ khác loại) / A. hand – bàn tay / B. head – cái đầu / C. hair – tóc / ✅ D. house – ngôi nhà / 👉 Giải thích: 3 từ đầu là bộ phận cơ thể. \"house\" là đồ vật – khác loại."
+      },
+      {
+        "id": 321,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/touchyourhead.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. Touch your head.",
+          "B. Touch your hair.",
+          "C. Touch your hand.",
+          "D. Touch your horse."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Listen and choose. (Nghe và chọn) / ✅ A. Touch your head. – Chạm vào đầu của em. / B. Touch your hair. / C. Touch your hand. / D. Touch your horse."
+      },
+      {
+        "id": 322,
+        "question": "Look and choose the correct answer.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/doll.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. doll",
+          "B. cat",
+          "C. bird",
+          "D. dog"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Look and choose the correct answer. (Xem tranh và chọn đáp án đúng) / ✅ A. doll – búp bê / B. cat – con mèo / C. bird – con chim / D. dog – con chó"
+      },
+      {
+        "id": 323,
+        "question": "Touch ____ head.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/touchyourhead.mp3",
+        "choices": [
+          "A. your",
+          "B. you",
+          "C. are",
+          "D. the"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. your / Touch your head. / → Chạm vào đầu của em."
+      },
+      {
+        "id": 324,
+        "question": "Find the mistake: <u>I</u> <u>have</u> <u>a cat</u> and <u>a cars</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ihaveacatandacar.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. I",
+          "B. have",
+          "C. a cat",
+          "D. a cars"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "✅ D. cars / → Sau \"a\" phải số ít → \"car\"."
+      },
+      {
+        "id": 325,
+        "question": "Choose the missing letter: h_use",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. o",
+          "B. a",
+          "C. e",
+          "D. i"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. o  h_use → house: ngôi nhà"
+      },
+      {
+        "id": 326,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. bat",
+          "B. ant",
+          "C. bird",
+          "D. cup"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "Choose the odd one out. (Chọn từ khác loại) / A. bat – con dơi / B. ant – con kiến / C. bird – con chim / ✅ D. cup – cái cốc / 👉 Giải thích: 3 từ đầu là con vật. \"cup\" là đồ vật – khác loại."
+      },
+      {
+        "id": 327,
+        "question": "Touch ____ hand.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/touchyourhand.mp3",
+        "choices": [
+          "A. your",
+          "B. you",
+          "C. are",
+          "D. the"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "✅ A. your / Touch your hand. / → Chạm vào bàn tay của em."
+      },
+      {
+        "id": 328,
+        "question": "Choose the unnecessary letter: batz",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. b",
+          "B. a",
+          "C. t",
+          "D. z"
+        ],
+        "correctAnswerIndex": 3,
+        "hint": "✅ D. z / Choose the unnecessary letter: batz / → Chọn chữ cái thừa: batz / batz → bat: con dơi"
+      },
+      {
+        "id": 329,
+        "question": "Listen and choose the correct answer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/hair.mp3",
+        "choices": [
+          "A. hair",
+          "B. hand",
+          "C. head",
+          "D. hat"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "Listen and choose the correct answer. (Nghe và chọn đáp án đúng) / ✅ A. hair – tóc / B. hand – bàn tay / C. head – cái đầu / D. hat – cái mũ"
+      },
+      {
+        "id": 330,
+        "question": "Find the mistake: <u>My</u> mom and I <u>is</u> <u>at</u> the <u>supermarket</u>.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/mymomandiareatthesupermarket.png",
+        "questionAudioUrl": "",
+        "choices": [
+          "A. My",
+          "B. is",
+          "C. at",
+          "D. supermarket"
+        ],
+        "correctAnswerIndex": 1,
+        "hint": "✅ B. is / → \"My mom and I\" số nhiều → \"are\"."
+      }
+    ]
+  }
+]
