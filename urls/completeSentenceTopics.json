@@ -376,7 +376,7 @@
         "sentence": "a _ _ _ _ and a _ _ _",
         "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/acakeandacup.png",
         "audioUrl": "",
-        "answer": "cake, cup",
+        "answer": ["cake", "cup"],
         "hint": "a cake and a cup: cái bánh ngọt và cái cốc"
       },
       {
