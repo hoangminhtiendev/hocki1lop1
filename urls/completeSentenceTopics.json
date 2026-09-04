@@ -153,7 +153,7 @@
         "sentence": "b_ l_",
         "imageUrl": "",
         "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ball.mp3",
-        "answer": "a, l",
+        "answer": ["a", "l"],
         "hint": "ball: quả bóng"
       },
       {
