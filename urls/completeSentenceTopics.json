@@ -392,7 +392,7 @@
         "sentence": "I have a _ _ _ and I have a _ _ _.",
         "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ihaveacatandihaveacup.png",
         "audioUrl": "",
-        "answer": "cat, cup",
+        "answer": ["cat", "cup"],
         "hint": "I have a cat and I have a cup: Tôi có một con mèo và một cái cốc."
       },
       {
