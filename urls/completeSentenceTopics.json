@@ -6,11 +6,11 @@
     "scenes": [
       {
         "id": 1,
-        "sentence": "_ all",
-        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ball.png",
-        "audioUrl": "",
-        "answer": "b",
-        "hint": "ball: quả bóng"
+        "sentence": "v__eyb___",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ball.mp3",
+        "answer": "oll, all",
+        "hint": "volleyball:  bóng chuyền"
       },
       {
         "id": 2,
